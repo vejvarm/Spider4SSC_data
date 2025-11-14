@@ -1,4 +1,4 @@
-Supporting data analysis code for the Spider4SSC dataset, which is downloadable from [Mendeley Data](https://data.mendeley.com/datasets/4dnvv92trn/1)
+Supporting data analysis code for the Spider4SSC dataset, which is downloadable from [Mendeley Data](https://data.mendeley.com/datasets/4dnvv92trn)
 
 
 Cite dataset as:
