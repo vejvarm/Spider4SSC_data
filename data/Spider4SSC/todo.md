@@ -1,0 +1,1 @@
+Place the downloaded `dev.json`, `train.json` and `database` folder from Spider4SSC dataset here.

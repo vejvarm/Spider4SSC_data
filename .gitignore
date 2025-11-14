@@ -1,0 +1,9 @@
+.vscode
+.conda
+results
+data/Spider4SSC/database
+data/Spider4SSC/scripts
+data/Spider4SSC/database.zip
+data/Spider4SSC/dev.json
+data/Spider4SSC/train.json
+__pycache__
