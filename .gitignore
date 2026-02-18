@@ -1,3 +1,4 @@
+__pycache__
 .vscode
 .conda
 results
@@ -6,4 +7,5 @@ data/Spider4SSC/scripts
 data/Spider4SSC/database.zip
 data/Spider4SSC/dev.json
 data/Spider4SSC/train.json
-__pycache__
+data/*
+spider4ssc_test/*
